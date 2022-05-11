@@ -1,6 +1,6 @@
 # NLP-Learning-Experience---Coursera(No copy paste version) 
 
-This is my practice of the NLP courses from Coursera by 
+This is my practice of the NLP courses from Coursera by [eepLearning AI](https://www.deeplearning.ai/)
 
 ## Courses 
 
