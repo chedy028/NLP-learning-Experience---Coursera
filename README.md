@@ -2,8 +2,9 @@
 
 This is my practice of the NLP courses from Coursera by [DeepLearning AI](https://www.deeplearning.ai/)
 
-#Study flow 
-I am going through the videos and notes first then will come back work on the code.
+# Study Flow
+- go through the videos and notes 
+- work on jupyter notebooks
 
 # Courses 
 
